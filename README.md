@@ -35,6 +35,8 @@ The model can be accessed at our online [web-application](https://spinalmetastas
 3. Tables
 - `Baseline_tables.py`: Generates baseline tables for complete and imputed data, compares training and testing data, and contrasts patients with complete versus missing EQ-5D-3L questionnaires
 
+`Missing data analysis.py`: Additional missing data analysis with Little's test, association analysis with logistic regression, and sensitivity analysis of imputed vs. complete EQ-5D-3L datasets
+
 ### Manuscript & Article Supplements (to be added, currently in manuscript submission process)
 
 - Published manuscript (link: `.....`)
